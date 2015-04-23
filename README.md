@@ -18,7 +18,7 @@ The Civil Rights Division of the U.S. Department of Justice conducts its broad �
 
 That statute, known as 14141 after its section of the U.S. Code, allows the Justice Department to investigate almost any report of police actions that suggest a pattern of violations of citizens’ constitutional civil rights. Where the allegations are upheld, the department can seek agreement with local governments on policing reforms or – as it has done more aggressively under President Barack Obama – go to the federal courts to force changes under closely monitored consent decrees.
 
-Our story, "[Policing The Police](https://www.themarshallproject.org/2015/04/23/policing-the-police)," published by [The Marshall Project](https://www.themarshallproject.org/) with Time.com on April 23, 2015, examines the use of 14141 investigations during the last three presidencies.
+Our story, "[Policing The Police](https://www.themarshallproject.org/2015/04/23/policing-the-police)," published by [The Marshall Project](https://www.themarshallproject.org/) with [Time.com](http://time.com/police-shootings-justice-department-civil-rights-investigations/) on April 23, 2015, examines the use of 14141 investigations during the last three presidencies.
 
 Included in this repo is [the table](data/doj_data.csv) of data The Marshall Project used to analyze and visualize the 14141 investigations since the law's inception. If you'd like to use the data, please read on for its genealogy and caveats about its limitations.
 
