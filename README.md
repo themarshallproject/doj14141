@@ -39,6 +39,9 @@ In the start_date column, we tried to get exact dates wherever possible. Because
 
 To determine how and when a case was settled, we used the ```status_result``` column and the date of either an agreement of some form (a consent decree or a memorandum of agreement) or a "closed with agreement" desgination from the DoJ. Based on those, we could classify the administration that closed each type of case over time. Any cases that were still being litigated or have not reached a settlement were coded as "Ongoing" and were omitted from our bar chart of case closures.
 
+##Additional resources
+For finding background information on the DOJ's pattern and practices investigations, also try the [Civil Rights Litigation Clearinghouse](http://www.clearinghouse.net/) at the University of Michigan, which posts key documents about many cases, particularly older ones.
+
 ##Contributors
 
 * Tom Meagher, [The Marshall Project](https://www.themarshallproject.org/)
