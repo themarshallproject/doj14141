@@ -20,7 +20,7 @@ That statute, known as 14141 after its section of the U.S. Code, allows the Just
 
 Our story, "[Policing The Police](https://www.themarshallproject.org/2015/04/23/policing-the-police)," published by [The Marshall Project](https://www.themarshallproject.org/) with [Time.com](http://time.com/police-shootings-justice-department-civil-rights-investigations/) on April 23, 2015, examined the use of 14141 investigations during the last three presidencies.
 
-Included in this repo is [the table](data/20150423doj_data.csv) of data The Marshall Project used to analyze and visualize the 14141 investigations since the law's inception. We also have [a current table of pattern and practice investigations](data/doj_data.csv) currently underway. If you'd like to use the data, please read on for its genealogy and caveats about its limitations.
+Included in this repo is [the table](data/20150423doj_data.csv) of data The Marshall Project used to analyze and visualize the 14141 investigations since the law's inception. We also have [a current table of pattern and practice investigations](data/doj_data.csv) with the most current status of investigations underway, which we periodically update. If you'd like to use the data, please read on for its genealogy and caveats about its limitations.
 
 ##Data sources and caveats
 This data began with [a PDF provided by the Department of Justice](data/Copy%20of%20ALL%20Authorized%2014141%20LEA%20investigations%20EVER%207-2-14%20to%20Marshal%20Project%202.pdf) in late 2014 that listed all of the 14141 investigations and their current status. To fill in the start dates and other background on the disposition of the cases, we combed through many other sources:
