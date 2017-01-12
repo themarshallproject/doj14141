@@ -4,7 +4,7 @@ M               M   /_  __/ /  ___
 M M           M M    / / / _ \/ -_)                      
 M M M       M M M   /_/_/_//_/\__/         __        ____
 M M M M   M M M M     /  |/  /__ ________ / /  ___ _/ / /
-M M M M M M M M M    / /|_/ / _ `/ __(_-</ _ \/ _ `/ / / 
+M M M M M M M M M    / /|_/ / _ `/ __(_-</ _ \/ _ `/ / /
 M M M M M M M M M   /_/__/_/\_,_/_/ /___/_//_/\_,_/_/_/  
 M M M M M M M M M     / _ \_______    (_)__ ____/ /_     
 M M M M M M M M M    / ___/ __/ _ \  / / -_) __/ __/     
@@ -41,6 +41,8 @@ To determine how and when a case was settled, we used the ```status_result``` co
 
 ##Additional resources
 For finding background information on the DOJ's pattern and practices investigations, also try the [Civil Rights Litigation Clearinghouse](http://www.clearinghouse.net/) at the University of Michigan, which posts key documents about many cases, particularly older ones.
+
+*Update 1/12/17:* In the waning days of the Obama administration, the Department of Justice recently launched [a new website](https://www.justice.gov/crt/page/file/922456/download) tracking various civil rights investigations of police departments.
 
 ##Contributors
 
