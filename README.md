@@ -12,7 +12,7 @@ M M M M M M M M M   /_/  /_/  \___/_/ /\__/\__/\__/
                                  |___/  
 ```
 
-#The Department of Justice's 14141 civil rights investigations
+# The Department of Justice's 14141 civil rights investigations
 
 The Civil Rights Division of the U.S. Department of Justice conducts its broad “pattern or practice” investigations of local law enforcement agencies under a 1994 law that took shape after the beating of Rodney King by white officers of the Los Angeles Police Department.
 
@@ -22,7 +22,7 @@ Our story, "[Policing The Police](https://www.themarshallproject.org/2015/04/23/
 
 Included in this repo is [the table](data/20150423doj_data.csv) of data The Marshall Project used to analyze and visualize the 14141 investigations since the law's inception. We also have [a current table of pattern and practice investigations](data/doj_data.csv) with the most current status of investigations underway, which we periodically update. If you'd like to use the data, please read on for its genealogy and caveats about its limitations.
 
-##Data sources and caveats
+## Data sources and caveats
 This data began with [a PDF provided by the Department of Justice](data/Copy%20of%20ALL%20Authorized%2014141%20LEA%20investigations%20EVER%207-2-14%20to%20Marshal%20Project%202.pdf) in late 2014 that listed all of the 14141 investigations and their current status. To fill in the start dates and other background on the disposition of the cases, we combed through many other sources:
 
 - Interviews with Justice Department sources.
@@ -39,16 +39,16 @@ In the start_date column, we tried to get exact dates wherever possible. Because
 
 To determine how and when a case was settled, we used the ```status_result``` column and the date of either an agreement of some form (a consent decree or a memorandum of agreement) or a "closed with agreement" desgination from the DoJ. Based on those, we could classify the administration that closed each type of case over time. Any cases that were still being litigated or have not reached a settlement were coded as "Ongoing" and were omitted from our bar chart of case closures.
 
-##Additional resources
+## Additional resources
 For finding background information on the DOJ's pattern and practices investigations, also try the [Civil Rights Litigation Clearinghouse](http://www.clearinghouse.net/) at the University of Michigan, which posts key documents about many cases, particularly older ones.
 
 *Update 1/12/17:* In the waning days of the Obama administration, the Department of Justice recently launched [a new website](https://www.justice.gov/crt/page/file/922456/download) tracking various civil rights investigations of police departments.
 
-##Contributors
+## Contributors
 
 * Tom Meagher, [The Marshall Project](https://www.themarshallproject.org/)
 * Simone Weichselbaum, [The Marshall Project](https://www.themarshallproject.org/)
 * Gabriel Dance, [The Marshall Project](https://www.themarshallproject.org/)
 
-##Bugs
+## Bugs
 If you have questions about the data, please email Tom at ```tmeagher@themarshallproject.org``` or file a [Github issue](https://github.com/themarshallproject/doj14141/issues).
